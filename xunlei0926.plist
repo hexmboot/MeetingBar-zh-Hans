@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://files.git.oschina.net/group1/M00/05/03/PaAvDFumUjOAXUUkA-kQuCe1OJA467.ipatring>
+					<string>http://files.git.oschina.net/group1/M00/05/03/PaAvDFumUjOAXUUkA-kQuCe1OJA467.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<string>NO</string>
 					<key>url</key>
-					<string>http://jabizb.cn/icon//smallImage.png</string>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<string>NO</string>
 					<key>url</key>
-					<string>https://s1.ax1x.com/2018/02/22/9UmKDH.png</string>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>迅雷</string>
 				<key>title</key>
-				<string>更多好玩关注公众号：笔科技，若无法下载请重启手机后重试</string>
+				<string>迅雷beta-更多好玩关注公众号：笔科技</string>
 			</dict>
 		</dict>
 	</array>
